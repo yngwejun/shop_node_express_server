@@ -1,5 +1,7 @@
 # 购物网站
 
+`Github`看这里 https://yngwejun.github.io/shop_node_express_server/public/doc/README.html
+
 ### 一.项目简介
 #### 描述
 这是一个纯学习，实践的项目。
